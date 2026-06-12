@@ -1,5 +1,5 @@
 # Dependencies
-Frontend/node_modules/
+node_modules/
 vendor/
 
 # Environment variables
