@@ -21,7 +21,7 @@ const Home = () => {
     <div className="home page-wrapper">
       <ParticleBackground density={70} />
 
-      {/* ══════════ HERO ══════════ */}
+      {/* ══════════ HERO ══════════---- */}
       <section className="hero">
         <div className="hero__bg-orbs" aria-hidden="true">
           <div className="hero__orb hero__orb--1" />
